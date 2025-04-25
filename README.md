@@ -74,15 +74,15 @@
         <h2>Proyek</h2>
         <div class="project">
             <h3>Proyek 1: Garis bresenham</h3>
-            <p>Deskripsi: Membuat Garis brasenham.</p>
+            <p>Deskripsi: https://youtu.be/4Bzdh61P8oE?si=qNfQq2qs7QoJzoq8.</p>
         </div>
         <div class="project">
             <h3>Proyek 2: Lingkaran bresenham dan midpoint</h3>
-            <p>Deskripsi: Membuat lingkaran brasenham dan midpoint.</p>
+            <p>Deskripsi: https://youtu.be/hfzClBJEIYg?si=uBZau752lIG9UqpJ.</p>
         </div>
         <div class="project">
             <h3>Proyek 3: Kurva Bezier</h3>
-            <p>Deskripsi: Membuat Kurva Bezier.</p>
+            <p>Deskripsi: https://youtu.be/wYD0mWLX1aA?si=vaGy93s9Po40YmCX.</p>
         </div>
     </section>
 </div>
